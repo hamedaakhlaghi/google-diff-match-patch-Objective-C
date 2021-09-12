@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-  s.name         = "Google-Diff-Match-Patch"
+  s.name         = "Google-Diff-Match-Patch-hamed"
   s.version      = "1.0.6"
   s.summary      = "The Diff Match and Patch libraries offer robust algorithms to perform the operations required for synchronizing plain text."
   s.homepage     = "http://code.google.com/p/google-diff-match-patch/"
